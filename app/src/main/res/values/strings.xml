@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="welcome_text">Welcome to Mad Libs!</string>
+    <string name="button_start">Get Started</string>
+    <string name="button_generate">Generate</string>
+    <string name="button_home">Go Home</string>
+    <string name="toast_message">Missing Field</string>
+</resources>
